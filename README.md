@@ -1,9 +1,14 @@
 <h2 align="center">Ask @praveenscience anything!</h2>
 
 <div align="center">
+  <img src="https://i.imgur.com/7lYPjeYl.jpg" alt="Praveen Kumar Purushothaman" />
+  <br />
+  <br />
   <a href="https://github.com/praveenscience/ama/issues/new"><img src="https://i.imgur.com/wK3OQIx.png" alt="Ask A Question" /></a>
   &nbsp;
   <a href="https://github.com/praveenscience/ama/issues?q=is%3Aissue+is%3Aclosed"><img src="https://i.imgur.com/rvLP1Z7.png" alt="Read All Answers" /></a>
+  <br />
+  <a href="https://github.com/praveenscience/ama/issues?q=label%3A%22Great+Q%21%22+is%3Aclosed"><img src="https://i.imgur.com/9zFMrhh.png" alt="Read Awesome Question &amp; Answers" /></a>
 </div>
 
 ---
